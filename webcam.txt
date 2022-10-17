@@ -1,0 +1,2 @@
+camera="usb"
+camera_usb_options="-r 640x480 -f 10 -d /dev/v4l/by-id/usb-Alpha_Imaging_Tech._Corp._Razer_Kiyo-video-index0"
