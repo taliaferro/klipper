@@ -5,8 +5,8 @@ enable_debug_logging = False
 max_upload_size = 1024
 
 [file_manager]
-config_path = ~/klipper_config
-log_path = ~/klipper_logs
+config_path = ~/printer_data/config
+log_path = ~/printer_data/logs
 enable_object_processing = False
 
 [authorization]
